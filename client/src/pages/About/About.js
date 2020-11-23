@@ -10,7 +10,7 @@ function About() {
     return (
       <div>
         <Hero>
-          <h1>GOOGLE BOOKS REACT APP</h1>
+          <h1>Google Books React Application</h1>
         </Hero>
         <Container style={{ marginTop: 30 }}>
           <Row>
@@ -34,7 +34,7 @@ function About() {
                 <li>Mongo DB to save information for saved books</li>
               </ul>
               <br></br>
-              <p className="ty"> Thank you for visiting. - Andrew Kessler</p>
+              
             </Column>
           </Row>
         </Container>

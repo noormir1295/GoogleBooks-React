@@ -10,7 +10,7 @@
   margin: 0 auto;
   margin-top: 30px;
   margin-left: 20px;
-  background-color: #D8C3A5;
+  background-color:#DDDDDD ;
   justify-content: center;
   
 }
@@ -31,7 +31,7 @@ margin-top: 15px;
 }
 
 .link { 
-color: #E98074;
+color: #0074D9;
 }
 
 .saveBtn { 
@@ -39,6 +39,6 @@ color: #E98074;
     margin-left: 0;
     margin-bottom: 10px;
     background-color: #8E8D8A;
-    color: #E98074;
+    color: #0074D9;
 }
 
