@@ -1,4 +1,4 @@
-const db = require('../../Google-Books-React/models/book');
+const db = require('../models/book');
 
 module.exports = { 
 //add 
